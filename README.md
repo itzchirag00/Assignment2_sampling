@@ -1,4 +1,5 @@
 # Assignment2_sampling Chirag Sood(102317142) 
+Explanations:-
 1.First, the dataset is visualized in a clean and structured manner using YData-Profiling to understand feature distributions, correlations, and overall data quality.
 
 2.From the visualization, the count of each class in the target (Class) feature is examined, which clearly shows that the dataset is imbalanced.
